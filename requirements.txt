@@ -1,0 +1,9 @@
+torch
+torchvision
+Pillow
+gdown
+numpy
+scipy
+cmake
+opencv-python
+onnxruntime-gpu
